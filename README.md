@@ -71,7 +71,7 @@ You can view the bug logs and test cases in the folder [02-corpsolutions.zandsgr
 
 ## 📝 Test Report Sample
 
-You can view or download the test report [here](./test-reports/test-repor.001.md).
+You can view or download the test report [here](./test-reports/test-report.001.md).
 
 
 ## 🚀 Live Links

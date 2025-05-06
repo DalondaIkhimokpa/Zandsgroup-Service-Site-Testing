@@ -26,5 +26,3 @@
 
 - Next: Investigate how to automate cache purge after upload  
 - Consider plugin alternatives for media syncing
-
-

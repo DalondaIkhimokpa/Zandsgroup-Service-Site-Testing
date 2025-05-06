@@ -55,13 +55,27 @@ This project showcases real-world QA documentation and experience.
 
 ## 📸 Screenshots
 
-Add 2–3 screenshots (homepage, CMS panel, testing logs, etc.)
+### Homepage
+![Homepage Screenshot](./screenshots/Screenshot%202025-05-05%20at%206.52.19%20PM.png)
+
+### CMS Panel
+![CMS Panel Screenshot](./screenshots/Screenshot%202024-11-05%20at%206.33.09%20PM.png)
+
+### Testing Logs
+![Testing Logs Screenshot](./screenshots/Screenshot%202024-12-30%20at%206.36.01%20PM.png)
+
+
+### 🐞 Bug Logs and Test Cases
+You can view the bug logs and test cases in the folder [02-corpsolutions.zandsgroup.com](./02-corpsolutions.zandsgroup.com).
+
 
 ## 📝 Test Report Sample
 
-Link to or upload a sample `.md` or `.pdf` test report you've written (even if it's simplified).
+You can view or download the test report [here](./test-reports/test-repor.001.md).
+
 
 ## 🚀 Live Links
 
 - [Main Site](https://zandsgroup.com)  
 - [Corporate Portal](https://corpsolutions.zandsgroup.com/)
+

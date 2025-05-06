@@ -5,7 +5,7 @@
 
 ---
 
-![Zandsgroup Logo](../01-zandsgroup.com/assets/zs_logo.png)
+![Zandsgroup Logo](/01-zandsgroup.com/assets/zs_logo.png)
 
 
 ## 1. Introduction

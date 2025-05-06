@@ -56,18 +56,17 @@ This project showcases real-world QA documentation and experience.
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](./screenshots/Screenshot%202025-05-05%20at%206.52.19%20PM.png)
+![Homepage Screenshot](01-zandsgroup.com/bug-reports/screenshots/Screenshot%202025-05-05%20at%206.52.19 PM.png)
 
 ### CMS Panel
-![CMS Panel Screenshot](./screenshots/Screenshot%202024-11-05%20at%206.33.09%20PM.png)
+![CMS Panel Screenshot](01-zandsgroup.com/bug-reports/screenshots/Screenshot%202024-11-05%20at%206.33.09 PM.png)
 
 ### Testing Logs
-![Testing Logs Screenshot](./screenshots/Screenshot%202024-12-30%20at%206.36.01%20PM.png)
+![Testing Logs Screenshot](01-zandsgroup.com/bug-reports/screenshots/Screenshot%202024-12-30%20at%206.36.01 PM.png)
 
 
 ### 🐞 Bug Logs and Test Cases
-You can view the bug logs and test cases in the folder [02-corpsolutions.zandsgroup.com](./02-corpsolutions.zandsgroup.com).
-
+You can view the bug logs and test cases in the folder [02-corpsolutions.zandsgroup.com](./02-corpsolutions.zandsgroup.com)
 
 ## 📝 Test Report Sample
 

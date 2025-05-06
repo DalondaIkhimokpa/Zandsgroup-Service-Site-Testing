@@ -5,7 +5,7 @@
 
 ---
 
-![CorpSolutions Logo](../02-corpsolutions.zandsgroup.com/assets/corpsol.webp)
+![CorpSolutions Logo](/02-corpsolutions.zandsgroup.com/assets/corpsol.webp)
 
 ## 1. Introduction
 

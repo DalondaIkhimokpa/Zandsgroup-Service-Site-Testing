@@ -1,9 +1,10 @@
 # 🧪 QA Test Log — November 12, 2024
 
+**Test Case ID**: TC-02
 **Tested Site**: zandsgroup.com  
 **Tester**: Dalonda Ikhimokpa  
 **Devices Used**: MacBook Pro, Safari / Chrome  
-**Testing Type**: Functional (Test Case: TC-001)
+**Testing Type**: Functional 
 
 ---
 

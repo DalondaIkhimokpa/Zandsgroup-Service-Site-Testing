@@ -10,7 +10,10 @@
 ### 🧪 Preconditions
 
 - Contact form plugin is installed and visible  
-- Email delivery (SMTP or other) is configured  
+- Email delivery (SMTP or other) is configured
+- Contact form email now delivering properly  
+- Header and nav bar rendering on all mobile screen sizes
+- Booking contact form sending message  
 
 ---
 

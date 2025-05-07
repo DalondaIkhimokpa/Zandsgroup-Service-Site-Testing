@@ -2,6 +2,7 @@
 
 **Project**: Zands Group  
 **Feature**: Contact Form  
+**Test Case**: TC-02 
 **Tested By**: Dalonda Ikhimokpa  
 **Date**: 2024-11-25  
 **Result**: ❌ Failed

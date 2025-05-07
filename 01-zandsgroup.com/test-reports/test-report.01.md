@@ -2,6 +2,7 @@
 
 **Project**: Zands Group  
 **Tested Feature**: Homepage responsiveness and content delivery  
+**Test Case**: TC-01 
 **Date**: 2024-10-20  
 **Tested By**: Dalonda Ikhimokpa  
 **Result**: Partially Passed (1 issue logged)

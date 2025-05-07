@@ -1,5 +1,6 @@
 # 🧪 QA Test Log — October 25, 2024
 
+**Test Case ID**: TC-02 
 **Tested Site**: corpsolutions.zandsgroup.com  
 **Tester**: Dalonda Ikhimokpa  
 **Devices Used**: MacBook, iPhone Safari  

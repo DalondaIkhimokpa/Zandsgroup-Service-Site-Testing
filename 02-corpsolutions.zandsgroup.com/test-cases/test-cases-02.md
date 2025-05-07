@@ -1,9 +1,9 @@
 # ✅ Test Case – Airbnb Listing Sync
 
-**Test Case ID**: TC-002  
+**Test Case ID**: TC-02  
 **Tested By**: Dalonda Ikhimokpa  
-**Date**: 2024-09-20  
-**Environment**: Guesty API + WordPress
+**Date**: 2024-10-25  
+**Environment**: Guesty API + WordPress, Production – [corpsolutions.zandsgroup.com](https://corpsolutions.zandsgroup.com)
 
 ---
 

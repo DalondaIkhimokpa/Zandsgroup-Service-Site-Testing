@@ -1,5 +1,6 @@
 # 🧪 QA Test Log — November 12, 2024
 
+**Test Case ID**: TC-002 
 **Tested Site**: corpsolutions.zandsgroup.com  
 **Tester**: Dalonda Ikhimokpa  
 **Devices Used**: MacBook Pro, iPhone Safari  
@@ -12,6 +13,7 @@
 - Homepage speed consistent  
 - Contact form email now delivering properly  
 - Header and nav bar rendering on all mobile screen sizes
+- Booking contact form sending message
 
 ---
 

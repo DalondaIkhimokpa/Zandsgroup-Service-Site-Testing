@@ -1,5 +1,6 @@
 # ❌ Bug Log — Contact Form
 
+**Bug ID**: BUG-01  
 **Date**: 2024-09-12  
 **Reported By**: Dalonda Ikhimokpa  
 **Severity**: Medium

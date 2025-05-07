@@ -1,7 +1,8 @@
 # ✅ QA Report – API Sync Follow-Up
 
 **Date**: 2024-10-25  
-**Tester**: Dalonda Ikhimokpa  
+**Tester**: Dalonda Ikhimokpa 
+**Test Case**: TC-02  
 **Focus**: Airbnb Listing Sync (via Guesty)
 
 ---

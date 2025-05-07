@@ -1,0 +1,4 @@
+samples/*.js linguist-detectable=true
+samples/*.html linguist-detectable=true
+samples/*.sh linguist-detectable=true
+

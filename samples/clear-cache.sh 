@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# clear-cache.sh
+# Simulates WordPress cache clearing task
+
+echo "🔧 Starting cache clearing process..."
+
+# Simulated plugin actions
+echo "✅ Clearing WP Super Cache..."
+echo "✅ Clearing Cloudflare cache via dashboard..."
+echo "✅ Flushing object cache..."
+
+echo "🚀 Cache cleared. Site changes should now reflect immediately."

@@ -1,7 +1,7 @@
 # 🐞 Bug Log – Homepage Cache
-
 **Bug ID**: BUG-001  
-**Date**: 2024-10-14  
+**Date**: 2024-10-14
+
 **Reported By**: Dalonda Ikhimokpa  
 **Feature**: Homepage  
 **Description**: Homepage changes not showing unless hard-refresh performed

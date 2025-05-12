@@ -53,7 +53,7 @@ This project showcases real-world QA documentation and experience.
 - Documentation writing
 - Debugging (caching, SSL, mobile view issues)
 
-##🧪 QA Testing Considerations for Z&S Group's Website
+## 🧪 QA Testing Considerations for Z&S Group's Website
 
 ## Functional Testing
 - 1.Navigation & Links: Ensure all menu items (e.g., Home, About, Services, Solutions, Blog, Contact) and internal links function correctly.

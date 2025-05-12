@@ -67,19 +67,19 @@ This project showcases real-world QA documentation and experience.
 - 3.SEO Elements: Verify that meta titles, descriptions, and headers are appropriately set for search engine optimization
 
 ## Performance Testing
--1.Load Times: Assess page load speeds to ensure a smooth user experience.
--2.Stress Testing: Simulate high traffic to evaluate how the website handles increased user load.
+- 1.Load Times: Assess page load speeds to ensure a smooth user experience.
+- 2.Stress Testing: Simulate high traffic to evaluate how the website handles increased user load.
 
 ## Security Testing
--1.Data Protection: Check for SSL certificate validity and secure data transmission, especially for form submissions.
--2.Vulnerability Assessment: Scan for common security issues like SQL injection or cross-site scripting (XSS).
+- 1.Data Protection: Check for SSL certificate validity and secure data transmission, especially for form submissions.
+- 2.Vulnerability Assessment: Scan for common security issues like SQL injection or cross-site scripting (XSS).
 
 ## Compliance Testing
--1.Accessibility: Ensure the website meets accessibility standards (e.g., WCAG) for users with disabilities.
--2.Privacy Policies: Verify that privacy policies are present and comply with relevant regulations.
+- 1.Accessibility: Ensure the website meets accessibility standards (e.g., WCAG) for users with disabilities.
+- 2.Privacy Policies: Verify that privacy policies are present and comply with relevant regulations.
 
 ## Integration Testing
--1.Third-Party Services: Test integrations with services like email marketing tools, analytics platforms, or customer relationship management (CRM) systems.
+- 1.Third-Party Services: Test integrations with services like email marketing tools, analytics platforms, or customer relationship management (CRM) systems.
 
 ## 📸 Screenshots
 
